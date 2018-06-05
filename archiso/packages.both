@@ -484,8 +484,8 @@ arcolinux-bin-git
 #arcolinux-bspwm-git
 #arcolinux-common-git
 #arcolinux-config-cinnamon-git
-#arcolinux-config-git
-arcolinux-config-gnome-git
+arcolinux-config-git
+#arcolinux-config-gnome-git
 arcolinux-conky-collection-git
 #arcolinux-docs-git
 #arcolinux-faces-git
@@ -532,13 +532,5 @@ xfwm4
 xfce4-panel
 
 #Desktop specific
-gnome
-gnome-extra
-libappindicator-gtk3
-nautilus-image-converter
-gnome-mplayer
-gnome-multi-writer
-gnome-pie
-
-#Personal
-thunar
+mate
+mate-extra
