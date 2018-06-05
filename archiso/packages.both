@@ -523,7 +523,7 @@ arcolinux-xfce-thunar-git
 #Calamares installer
 calamares
 boost-libs
-arcolinuxb-calamares-gnome-git
+arcolinuxb-calamares-mate-git
 
 #xfce minimal desktop for iso
 xfce4-session
