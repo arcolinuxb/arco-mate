@@ -528,8 +528,8 @@ arcolinux-xfce-thunar-git
 #exo
 #garcon
 #gtk-xfce-engine
-#thunar
-#thunar-volman
+thunar
+thunar-volman
 #tumbler
 #xfce4-appfinder
 xfce4-panel
