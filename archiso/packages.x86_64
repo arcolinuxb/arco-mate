@@ -139,7 +139,7 @@ gstreamer
 libdvdcss
 pulseaudio
 pulseaudio-alsa
-#pavucontrol
+pavucontrol
 #volumeicon
 
 #bluetooth
