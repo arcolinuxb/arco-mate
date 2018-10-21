@@ -344,7 +344,7 @@ mlocate
 nomacs
 p7zip
 plank
-playerctl
+#playerctl
 polkit
 #polkit-gnome
 python2-dbus
