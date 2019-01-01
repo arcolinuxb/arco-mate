@@ -192,7 +192,7 @@ gsfonts
 gtk3-print-backends
 gutenprint
 libcups
-hplip
+#hplip
 splix
 system-config-printer
 
@@ -259,7 +259,7 @@ xcursor-simpleandsoft
 #fonts
 adobe-source-sans-pro-fonts
 awesome-terminal-fonts
-cantarell-fonts
+#cantarell-fonts
 noto-fonts
 terminus-font
 ttf-bitstream-vera
