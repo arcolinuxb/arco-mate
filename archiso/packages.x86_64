@@ -622,6 +622,6 @@ qt5-xmlpatterns
 mate
 mate-extra
 mate-tweak
-mate-menu
+#mate-menu
 pasystray
 paprefs
