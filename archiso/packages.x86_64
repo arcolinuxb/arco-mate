@@ -186,7 +186,6 @@ networkmanager-vpnc
 networkmanager-dispatcher-ntpd
 openresolv
 #samba
-wpa_supplicant
 
 ###file management
 gvfs
@@ -790,5 +789,5 @@ thunar-media-tags-plugin
 mate
 mate-extra
 mate-tweak
-pasystray
-paprefs
+#pasystray
+#paprefs
