@@ -29,7 +29,7 @@ echo
 	desktop="mate"
 	lightdmDesktop="mate"
 
-	arcolinuxVersion='v21.01.6'
+	arcolinuxVersion='v21.01.7'
 
 	isoLabel='arcolinuxb-'$desktop'-'$arcolinuxVersion'-x86_64.iso'
 
