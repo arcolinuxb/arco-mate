@@ -611,7 +611,7 @@ arcolinux-config-all-desktops-git
 #arcolinux-config-kodi-git
 #arcolinux-config-lxqt-git
 #arcolinux-config-openbox-git
-arcolinux-config-mate-git
+#arcolinux-config-mate-git
 #arcolinux-config-plasma-git
 #arcolinux-config-plasma-nemesis-git
 #arcolinux-config-qtile-git
