@@ -29,7 +29,7 @@ echo
 	desktop="mate"
 	dmDesktop="mate"
 
-	arcolinuxVersion='v24.01.04'
+	arcolinuxVersion='v24.02.01'
 
 	isoLabel='arcolinuxb-'$desktop'-'$arcolinuxVersion'-x86_64.iso'
 
